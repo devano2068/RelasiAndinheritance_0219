@@ -1,12 +1,9 @@
 #ifndef ANAK_H
 #define ANAK_H
 
-// version: 1.0.0.0
-
-
 class anak {
 public:
-    string nama; // Menyimpan nama anak
+    string nama;
     anak(string pNama) :nama(pNama)
     {
         cout << "Anak \"" << nama << "\" ada\n";
