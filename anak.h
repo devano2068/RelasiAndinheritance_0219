@@ -1,6 +1,11 @@
 #ifndef ANAK_H
 #define ANAK_H
 
+// ================================================
+// KELAS ANAK
+// ================================================
+
+
 
 class anak {
 public:
@@ -14,4 +19,4 @@ public:
         cout << "Anak \"" << nama << "\" tidak ada\n";
     }
 };
-#endif //ANAK_H
+#endif
