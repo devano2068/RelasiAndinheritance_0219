@@ -2,10 +2,6 @@
 #define ANAK_H
 
 
-// File: anak.h
-// Deskripsi: Deklarasi kelas anak
-
-
 class anak {
 public:
     string nama;
