@@ -1,7 +1,7 @@
 #ifndef ANAK_H
 #define ANAK_H
 
-// Last Updated: 2023-10-25
+// version: 1.0.0.0
 
 
 class anak {
